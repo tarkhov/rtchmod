@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# http://superuser.com/questions/91935/how-to-chmod-all-directories-except-files-recursively
+find . -type $1 -print0 | xargs -0 chmod $2
