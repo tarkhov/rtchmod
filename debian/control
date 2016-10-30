@@ -1,0 +1,16 @@
+Source: rtchmod
+Section: utils
+Priority: optional
+Maintainer: Alex Tarkhov <agtuks@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/alextarkhov/rtchmod
+#Vcs-Git: git://anonscm.debian.org/collab-maint/rtchmod.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/rtchmod.git
+
+Package: rtchmod
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Recursive chmod only for directories or files
+ Linux chmod can set mode bits recursivly only for all content in path.
+ But with rtchmod, you can set mode bits for directories only or files only.
