@@ -28,7 +28,7 @@ sudo apt-get install rtchmod
 
 ## Usage
 
-Go directory 
+Go to directory 
 
 ### Directories chmod
 
@@ -58,7 +58,7 @@ rtchmod d 777
 
 ## Author
 
-**Alex Tarkhov**
+**Alexander G. Tarkhov**
 
 * [Facebook](https://www.facebook.com/agtuks)
 * [Twitter](https://twitter.com/agtuks)
