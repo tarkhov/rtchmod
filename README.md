@@ -10,7 +10,7 @@ Recursive chmod only for directories or files.
   1. [Directories chmod](#directories-chmod)
   2. [Files chmod](#files-chmod)
   3. [Symbol links chmod](#symbol-links-chmod)
-  4. [Custom types chmod](#custom type chmod)
+  4. [Custom types chmod](#custom-types-chmod)
 3. [Author](#author)
 4. [License](#license)
 
@@ -21,7 +21,7 @@ Recursive chmod only for directories or files.
 From PPA:
 
 ```bash
-sudo add-apt-repository ppa:alextarkhov/ppa
+sudo add-apt-repository ppa:agtuks/ppa
 sudo apt-get update
 sudo apt-get install rtchmod
 ```
@@ -60,10 +60,10 @@ rtchmod d 777
 
 **Alex Tarkhov**
 
-* [Facebook](https://www.facebook.com/alextarkhov)
-* [Twitter](https://twitter.com/alextarkhov)
-* [Medium](https://medium.com/@alextarkhov)
-* [Product Hunt](https://www.producthunt.com/@alextarkhov)
+* [Facebook](https://www.facebook.com/agtuks)
+* [Twitter](https://twitter.com/agtuks)
+* [Medium](https://medium.com/@agtuks)
+* [Product Hunt](https://www.producthunt.com/@agtuks)
 
 ## License
 
