@@ -60,8 +60,8 @@ rtchmod d 777
 
 **Alexander G. Tarkhov**
 
-* [Facebook](https://www.facebook.com/tarhovcom)
-* [Twitter](https://twitter.com/tarhovcom)
+* [Facebook](https://www.facebook.com/tarhovalex)
+* [Twitter](https://twitter.com/tarhovalex)
 * [Medium](https://medium.com/@tarhov)
 * [Product Hunt](https://www.producthunt.com/@agtuks)
 
