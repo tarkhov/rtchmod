@@ -21,7 +21,7 @@ Recursive chmod only for directories or files.
 From PPA:
 
 ```bash
-sudo add-apt-repository ppa:tarhov/ppa
+sudo add-apt-repository ppa:tarkhov/ppa
 sudo apt-get update
 sudo apt-get install rtchmod
 ```
@@ -60,10 +60,10 @@ rtchmod d 777
 
 **Alexander G. Tarkhov**
 
-* [Facebook](https://www.facebook.com/tarhovalex)
-* [Twitter](https://twitter.com/tarhovalex)
-* [Medium](https://medium.com/@tarhov)
-* [Product Hunt](https://www.producthunt.com/@agtuks)
+* [Facebook](https://www.facebook.com/alextarkhov)
+* [Twitter](https://twitter.com/alextarkhov)
+* [Medium](https://medium.com/@tarkhov)
+* [Product Hunt](https://www.producthunt.com/@tarkhov)
 
 ## License
 
