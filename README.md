@@ -1,6 +1,6 @@
-# rtchmod
+# Chmod files only
 
-Recursive chmod only for directories or files.
+Recursive chmod only for files or directories.
 
 ### Contents
 
@@ -23,7 +23,7 @@ From PPA:
 ```bash
 sudo add-apt-repository ppa:tarkhov/ppa
 sudo apt-get update
-sudo apt-get install rtchmod
+sudo apt-get install chmod-files-only
 ```
 
 ## Usage
@@ -42,25 +42,19 @@ rdchmod 755
 rfchmod 644
 ```
 
-### Symbol links chmod
+### Custom file types chmod
+
+Change file mode bits only for symbol links.
 
 ```bash
-rlchmod 644
-```
-
-### Custom types chmod
-
-Change file mode bits only directories.
-
-```bash
-rtchmod d 777
+rtchmod l 777
 ```
 
 ## Author
 
-**Alexander G. Tarkhov**
+**Alexander Tarkhov**
 
-* [Facebook](https://www.facebook.com/alextarkhov)
+* [Facebook](https://www.facebook.com/alex.tarkhov)
 * [Twitter](https://twitter.com/alextarkhov)
 * [Medium](https://medium.com/@tarkhov)
 * [Product Hunt](https://www.producthunt.com/@tarkhov)
