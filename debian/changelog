@@ -1,0 +1,11 @@
+rtchmod (0.1.2-1) xenial; urgency=medium
+
+  * Second release 
+
+ -- Alexander Tarkhov <agtuks@gmail.com>  Tue, 24 Apr 2018 05:04:23 +0300
+
+rtchmod (0.1.1-1) precise; urgency=medium
+
+  * Initial release
+
+ -- Alex Tarkhov <agtuks@gmail.com>  Sun, 30 Oct 2016 17:56:05 +0200

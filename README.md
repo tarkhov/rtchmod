@@ -9,8 +9,7 @@ Recursive chmod only for files or directories.
 2. [Usage](#usage)
   1. [Directories chmod](#directories-chmod)
   2. [Files chmod](#files-chmod)
-  3. [Symbol links chmod](#symbol-links-chmod)
-  4. [Custom types chmod](#custom-types-chmod)
+  3. [Custom types chmod](#custom-types-chmod)
 3. [Author](#author)
 4. [License](#license)
 
@@ -23,7 +22,7 @@ From PPA:
 ```bash
 sudo add-apt-repository ppa:tarkhov/ppa
 sudo apt-get update
-sudo apt-get install chmod-files-only
+sudo apt-get install rtchmod
 ```
 
 ## Usage
