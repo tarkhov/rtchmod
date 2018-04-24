@@ -5,11 +5,11 @@ Recursive chmod only for files or directories.
 ### Contents
 
 1. [Installation](#installation)
-  1. [Ubuntu](#ubuntu)
+   1. [Ubuntu](#ubuntu)
 2. [Usage](#usage)
-  1. [Directories chmod](#directories-chmod)
-  2. [Files chmod](#files-chmod)
-  3. [Custom types chmod](#custom-types-chmod)
+   1. [Directories chmod](#directories-chmod)
+   2. [Files chmod](#files-chmod)
+   3. [Custom types chmod](#custom-types-chmod)
 3. [Author](#author)
 4. [License](#license)
 
