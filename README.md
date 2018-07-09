@@ -9,7 +9,7 @@ Recursive chmod only for files or directories.
 2. [Usage](#usage)
    1. [Directories chmod](#directories-chmod)
    2. [Files chmod](#files-chmod)
-   3. [Custom types chmod](#custom-types-chmod)
+   3. [Custom file types chmod](#custom-file-types-chmod)
 3. [Author](#author)
 4. [License](#license)
 
