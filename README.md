@@ -21,8 +21,8 @@ From PPA:
 
 ```bash
 sudo add-apt-repository ppa:tarkhov/ppa
-sudo apt-get update
-sudo apt-get install rtchmod
+sudo apt update
+sudo apt install rtchmod
 ```
 
 ## Usage
