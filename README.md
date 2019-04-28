@@ -4,14 +4,21 @@ Recursive chmod only for files or directories.
 
 ### Contents
 
-1. [Installation](#installation)
+1. [Compatibility](#compatibility)
+2. [Installation](#installation)
    1. [Ubuntu](#ubuntu)
-2. [Usage](#usage)
+3. [Usage](#usage)
    1. [Directories chmod](#directories-chmod)
    2. [Files chmod](#files-chmod)
    3. [Custom file types chmod](#custom-file-types-chmod)
-3. [Author](#author)
-4. [License](#license)
+4. [Author](#author)
+5. [License](#license)
+
+## Compatibility
+
+Name | Version
+------- | -------
+Ubuntu | 12.04 - 18.04 LTS
 
 ## Installation
 
