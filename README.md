@@ -11,14 +11,15 @@ Recursive chmod only for files or directories.
    1. [Directories chmod](#directories-chmod)
    2. [Files chmod](#files-chmod)
    3. [Custom file types chmod](#custom-file-types-chmod)
-4. [Author](#author)
-5. [License](#license)
+4. [Removing](#removing)
+5. [Author](#author)
+6. [License](#license)
 
 ## Compatibility
 
 Name | Version
 ------- | -------
-Ubuntu | 12.04 - 18.04 LTS
+Ubuntu | >= 12.04
 
 ## Installation
 
@@ -54,6 +55,14 @@ Change file mode bits only for symbol links.
 
 ```bash
 rtchmod l 777
+```
+
+## Removing
+
+To completely remove the package run the command:
+
+```bash
+sudo apt remove --purge rtchmod
 ```
 
 ## Author
