@@ -19,7 +19,7 @@ Recursive chmod only for files or directories.
 
 Name | Version
 ------- | -------
-Ubuntu | >= 12.04
+Ubuntu | >= 16.04
 
 ## Installation
 
